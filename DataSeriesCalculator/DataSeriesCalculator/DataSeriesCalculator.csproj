@@ -53,6 +53,7 @@
     <Compile Include="Calculation\AsCompositePattern\DataSeriesLeaf.cs" />
     <Compile Include="Calculation\AsCompositePattern\IComponent.cs" />
     <Compile Include="DataStructures\DataSeries.cs" />
+    <Compile Include="Calculation\AsFluent\FluentDataSeries.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

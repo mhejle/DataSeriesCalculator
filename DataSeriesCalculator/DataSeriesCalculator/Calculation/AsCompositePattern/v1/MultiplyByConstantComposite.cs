@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using DataSeriesCalculator.DataStructures;
+﻿using DataSeriesCalculator.DataStructures;
 
-namespace DataSeriesCalculator.Calculation.AsCompositePattern
+namespace DataSeriesCalculator.Calculation.AsCompositePattern.v1
 {
     public class MultiplyByConstantComposite : Composite
     {

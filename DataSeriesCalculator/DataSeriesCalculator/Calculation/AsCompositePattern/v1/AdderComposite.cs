@@ -2,7 +2,7 @@
 using System.Linq;
 using DataSeriesCalculator.DataStructures;
 
-namespace DataSeriesCalculator.Calculation.AsCompositePattern
+namespace DataSeriesCalculator.Calculation.AsCompositePattern.v1
 {
     /// <summary>
     /// only supports addition of equal lenght dataSeries

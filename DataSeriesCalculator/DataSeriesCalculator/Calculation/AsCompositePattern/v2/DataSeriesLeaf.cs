@@ -1,6 +1,6 @@
 ﻿using DataSeriesCalculator.DataStructures;
 
-namespace DataSeriesCalculator.Calculation.AsCompositePattern
+namespace DataSeriesCalculator.Calculation.AsCompositePattern.v2
 {
     public class DataSeriesLeaf : IComponent
     {
